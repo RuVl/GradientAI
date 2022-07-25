@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenBlue", "GreenBlue\GreenBlue.csproj", "{51480489-A57F-460D-A229-0378699A5F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI", "AI\AI.csproj", "{FA0C2FDA-1666-40E9-9BA3-FD0F7C116154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gradient", "Gradient\Gradient.csproj", "{656AFA25-B9FF-4887-AB4E-78DCD12CE1CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51480489-A57F-460D-A229-0378699A5F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51480489-A57F-460D-A229-0378699A5F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51480489-A57F-460D-A229-0378699A5F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51480489-A57F-460D-A229-0378699A5F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0C2FDA-1666-40E9-9BA3-FD0F7C116154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0C2FDA-1666-40E9-9BA3-FD0F7C116154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0C2FDA-1666-40E9-9BA3-FD0F7C116154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0C2FDA-1666-40E9-9BA3-FD0F7C116154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{656AFA25-B9FF-4887-AB4E-78DCD12CE1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656AFA25-B9FF-4887-AB4E-78DCD12CE1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656AFA25-B9FF-4887-AB4E-78DCD12CE1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{656AFA25-B9FF-4887-AB4E-78DCD12CE1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
